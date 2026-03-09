@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+    <h3>Name: Prachi Chavan</h3>
+    <h3>Roll No: 44</h3>
+    <h3>branch: CSE(A)</h3>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment 5 - HTML Image Tags</title>
+    <title>Image Tag Examples</title>
+     <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background-color: #f9f9f9; }
+        section { background: #fff; padding: 20px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        img, canvas, svg, video, embed, object { max-width: 100%; height: auto; border-radius: 8px; display: block; margin-top: 10px; }
+        code { background: #f4f4f4; padding: 2px 5px; color: #d63384; }
+        h1 { color: #333; border-bottom: 2px solid #333; padding-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <title>Image Tag Examples</title>
+    <h2>1. Standard Image</h2>
+    <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8yGuDDBINqOdIbbrUVrBZvNwCTQMp_0ZCg&s" 
+         alt="Standard Sample Image" >
+
+    <h2>2. Image with Caption</h2>
+    <figure>
+        <img src=" https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg" 
+             alt="Image with Caption">
+        <figcaption>This is an example of an image with caption.</figcaption>
+    </figure>
+
+    <h2>3. Responsive Image</h2>
+    <img src=" https://static.vecteezy.com/system/resources/thumbnails/049/855/347/small/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg" 
+         alt="Responsive Image Example" 
+         class="responsive">
+ 
+    <h2>4. Image as a Link</h2>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://lh3.googleusercontent.com/proxy/1wK08M0S23pBPrwGSobh8JSc2xAY5oeZjqLbvSspTE-WEXQQhFandGv6B_llGDyv4p0gneubWd9FHOGgHmp523Pt0Yx_VvodmSo4wP-hDwCIcoGLFBrJgd-GC2ge_Cwq1ZFKBU4dwxIvG2RP3OBnctv-5lnF6-jsXus" 
+             alt="Click this image to open Google">
+    </a>
+
+    <h2>5. Animated Image (GIF)</h2>
+    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
+         alt="Animated GIF"
+         width="200">
+
+    <h2>7. Image Map</h2>
+    <img src=" https://t4.ftcdn.net/jpg/07/13/65/87/360_F_713658706_UIrq9dTafsy1J1Kv3DCwJFAWtPVtP99H.jpg"
+         alt="Image Map Example"
+         usemap="#imagemap">
+
+    <map name="imagemap">
+        <area shape="rect" coords="0,0,200,200"
+              href="https://www.google.com"
+              alt="Left Side">
+        <area shape="rect" coords="200,0,400,200"
+              href="https://www.wikipedia.org"
+              alt="Right Side">
+    </map>
+
+</body>
+</html>
