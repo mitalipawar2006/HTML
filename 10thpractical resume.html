@@ -4,106 +4,253 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mitali Pawar Resume</title>
+
   <style>
-    body {
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
+
+    body{
       font-family: Arial, sans-serif;
-      margin: 0;
-      background-color: #f4f4f4;
+      background: #f4f6f9;
+      padding: 30px;
     }
 
-    .container {
-      width: 70%;
-      margin: 20px auto;
+    /* STUDENT INFO */
+
+    .student-info{
+      text-align:center;
+      margin-bottom:20px;
+      color:#333;
+      line-height:1.8;
+    }
+
+    .container{
+      width: 75%;
+      margin: auto;
       background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
     }
 
-    .header {
+    /* HEADER */
+
+    .header{
+      background: linear-gradient(135deg,#007BFF,#00B4D8);
+      color: white;
       text-align: center;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 10px;
+      padding: 35px;
     }
 
-    .header h1 {
-      margin: 0;
-      color: #333;
+    .header h1{
+      margin-bottom: 10px;
+      font-size: 38px;
     }
 
-    .section {
-      margin-top: 20px;
+    .header p{
+      font-size: 16px;
     }
 
-    .section h2 {
-      color: #444;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 5px;
+    /* SECTION */
+
+    .section{
+      padding: 25px 35px;
+      border-bottom: 1px solid #eee;
     }
 
-    ul {
+    .section h2{
+      color: #007BFF;
+      margin-bottom: 12px;
+      border-left: 5px solid #007BFF;
+      padding-left: 10px;
+    }
+
+    ul{
       padding-left: 20px;
+      line-height: 1.8;
     }
 
-    .skills span {
+    /* SKILLS */
+
+    .skills span{
       display: inline-block;
       background: #007BFF;
       color: white;
-      padding: 5px 10px;
-      margin: 5px;
-      border-radius: 5px;
+      padding: 7px 14px;
+      margin: 6px;
+      border-radius: 20px;
       font-size: 14px;
     }
 
+    /* FOOTER */
+
+    .footer{
+      text-align: center;
+      padding: 18px;
+      background: #f1f1f1;
+      color: #555;
+      font-size: 14px;
+    }
+
+    /* RESPONSIVE */
+
+    @media(max-width:768px){
+
+      .container{
+        width: 95%;
+      }
+
+      .header h1{
+        font-size: 28px;
+      }
+
+      .section{
+        padding: 20px;
+      }
+    }
+
   </style>
+
 </head>
+
 <body>
+
+<!-- NAME AND ROLL NO -->
+
+<div class="student-info">
+
+  <h3>Name: Mitali Pawar</h3>
+  <h3>Roll No: 29</h3>
+  <h3>Branch: CSE(A)</h3>
+
+</div>
 
 <div class="container">
 
+  <!-- HEADER -->
+
   <div class="header">
+
     <h1>Mitali Ravindra Pawar</h1>
-    <p>Email: mitalirpawar10@gmail.com | Phone: 8856057165</p>
+
+    <p>
+      Email: mitalirpawar10@gmail.com |
+      Phone: 8856057165
+    </p>
+
   </div>
 
+  <!-- OBJECTIVE -->
+
   <div class="section">
+
     <h2>Objective</h2>
-    <p>A motivated Computer Science student seeking opportunities to improve technical skills and gain practical experience.</p>
+
+    <p>
+      A motivated Computer Science student seeking opportunities
+      to improve technical skills and gain practical experience
+      in software development and emerging technologies.
+    </p>
+
   </div>
 
+  <!-- EDUCATION -->
+
   <div class="section">
+
     <h2>Education</h2>
+
     <ul>
-      <li>B.Tech in Computer Science - DYPCET (Pursuing)</li>
-      <li>12th - D.Y. Patil Jr College</li>
+      <li>
+        B.Tech in Computer Science Engineering -
+        DYPCET (Pursuing)
+      </li>
+
+      <li>
+        12th - D.Y. Patil Jr College
+      </li>
     </ul>
+
   </div>
 
+  <!-- SKILLS -->
+
   <div class="section">
+
     <h2>Skills</h2>
+
     <div class="skills">
+
       <span>C</span>
       <span>Python</span>
       <span>HTML</span>
       <span>CSS</span>
+      <span>C++</span>
       <span>Data Structures</span>
+
     </div>
+
   </div>
 
+  <!-- PROJECTS -->
+
   <div class="section">
+
     <h2>Projects</h2>
+
     <ul>
-      <li><b>Virtual Try-On System using AI</b> – Developed a system that allows users to virtually try outfits using AI-based image processing.</li>
-      <li><b>AI Powered KisanSathi Ecosystem</b> – Built a smart platform to assist farmers with AI-driven insights, support, and solutions.</li>
+
+      <li>
+        <b>Virtual Try-On System using AI</b> –
+        Developed a smart system that allows users
+        to virtually try spectacles using AI and
+        computer vision techniques.
+      </li>
+
+      <li>
+        <b>AI Powered KisanSathi Ecosystem</b> –
+        Built a smart platform to assist farmers
+        with AI-driven insights and digital support.
+      </li>
+
     </ul>
+
   </div>
 
+  <!-- ACHIEVEMENTS -->
+
   <div class="section">
+
     <h2>Achievements</h2>
+
     <ul>
-      <li>Actively learning Data Structures and Algorithms</li>
-      <li>Exploring programming and development</li>
+
+      <li>
+        Actively learning Data Structures and Algorithms
+      </li>
+
+      <li>
+        Exploring web development and AI technologies
+      </li>
+
+      <li>
+        Building mini projects using modern technologies
+      </li>
+
     </ul>
+
+  </div>
+
+  <!-- FOOTER -->
+
+  <div class="footer">
+
+    Resume Created Using HTML and CSS
+
   </div>
 
 </div>
