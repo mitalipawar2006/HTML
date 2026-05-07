@@ -1,18 +1,50 @@
+<div align="center">
+
 # 🚀 WEB TECHNOLOGY PRACTICALS
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=900&lines=HTML5+CSS3+XML+XSLT;Web+Technology+Practical+Programs;Created+By+Mitali+Pawar)](https://git.io/typing-svg)
+
+---
 
 ## 🎓 D.Y. Patil College of Engineering & Technology
 ### Department of Computer Science Engineering
 📍 Kasaba Bawada, Kolhapur
 
-### 🌐 Web Technology Practicals Portfolio
-HTML5 • CSS3 • XML • XSLT
+### 🌐 Semester IV Web Technology Portfolio
 
-<img src="https://img.shields.io/badge/HTML5-Orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-Blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/XML-Red?style=for-the-badge&logo=xml">
-<img src="https://img.shields.io/badge/XSLT-Purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white">
+
+<img src="https://img.shields.io/badge/XSLT-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+
+---
+
+# 🌐 VIEW ALL ASSIGNMENTS ONLINE
+
+### 🚀 LIVE ASSIGNMENT PORTFOLIO
+
+```diff
++ 🚀 Check out all my assignments live!
+```
+
+<br>
+
+<a href="https://mitalipawar2006.github.io/HTML/">
+
+<img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-FF4B6E?style=for-the-badge">
+
+</a>
+
+<br><br>
+
+![Live Demos](https://img.shields.io/badge/▲_Live_Demos-Available-brightgreen)
+![Assignments](https://img.shields.io/badge/🌎_All_Assignments-Online-blue)
+![Interactive](https://img.shields.io/badge/⚡_Interactive-Preview-orange)
 
 </div>
 
@@ -25,7 +57,7 @@ HTML5 • CSS3 • XML • XSLT
 | 👤 Name | Mitali Pawar |
 | 🆔 Roll No | 29 |
 | 🏫 Branch | CSE(A) |
-| 📚 Course | Web Technology |
+| 📚 Subject | Web Technology |
 | 🎯 Semester | IV |
 
 ---
@@ -40,12 +72,13 @@ This repository contains all Web Technology practical assignments created using:
 - 🔄 XSLT
 
 The project demonstrates:
-- Responsive Web Design
-- HTML Elements & Forms
-- XML Data Representation
-- XSLT Transformations
-- Modern UI Design
-- Interactive Webpages
+
+✅ Responsive Web Design  
+✅ HTML Elements & Forms  
+✅ XML Data Representation  
+✅ XSLT Transformations  
+✅ Modern UI Design  
+✅ Interactive Webpages  
 
 ---
 
@@ -60,7 +93,7 @@ The project demonstrates:
 | 3️⃣ | Lists & Nested Lists |
 | 4️⃣ | HTML Image Tags |
 | 5️⃣ | Iframe Demonstration |
-| 6️⃣ | Image & Text Links |
+| 6️⃣ | Hyperlinks, Text Links & Image Links |
 | 7️⃣ | Time Table Design |
 
 ---
@@ -95,6 +128,9 @@ The project demonstrates:
 ✅ Student Dashboard  
 ✅ Clean Folder Structure  
 ✅ Beginner Friendly Projects  
+✅ GitHub Hosted Portfolio  
+✅ Smooth Navigation Effects  
+✅ Image Link Demonstrations  
 
 ---
 
@@ -118,8 +154,14 @@ The project demonstrates:
 ```bash
 📦 HTML
  ┣ 📂 11th practical
+ ┃ ┗ 📄 11th practical.xml
  ┣ 📂 12th practical
+ ┃ ┣ 📄 index.xml
+ ┃ ┗ 📄 style.xsl
  ┣ 📂 13th practical
+ ┃ ┣ 📄 application.xml
+ ┃ ┣ 📄 application.xsl
+ ┃ ┗ 📄 application_output.html
  ┣ 📄 2ndpractical.html
  ┣ 📄 3rd practical.html
  ┣ 📄 4th practical.html
@@ -135,26 +177,33 @@ The project demonstrates:
 
 ---
 
+# 🚀 LIVE WEBSITE
+
+## 🌐 Open Portfolio
+
+🔗 https://mitalipawar2006.github.io/HTML/
+
+---
+
 # 🚀 HOW TO RUN
 
-## 📥 Step 1
-Clone this repository
+## 📥 Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/HTML.git
+git clone https://github.com/mitalipawar2006/HTML.git
 ```
 
-## 📂 Step 2
-Open the project folder
+---
 
-## 🌐 Step 3
-Run any `.html` file in browser
+## 📂 Step 2 — Open Folder
 
-Example:
+Open the project folder in VS Code.
 
-```bash
-Open index.html
-```
+---
+
+## 🌐 Step 3 — Run Website
+
+Open `index.html` in your browser.
 
 ---
 
@@ -171,6 +220,7 @@ Open index.html
 ✨ XML Programs  
 ✨ XSLT Result Dashboard  
 ✨ XML Application Transformation  
+✨ Hyperlinks & Image Links  
 
 ---
 
@@ -182,6 +232,7 @@ Open index.html
 📌 XML data handling  
 📌 XSLT transformations  
 📌 Frontend development basics  
+📌 GitHub project hosting  
 
 ---
 
@@ -193,6 +244,10 @@ Open index.html
 
 Computer Science Engineering Student  
 D.Y. Patil College of Engineering & Technology
+
+<br>
+
+<img src="https://img.shields.io/badge/Made%20With-HTML%20%26%20CSS-blue?style=for-the-badge">
 
 </div>
 
