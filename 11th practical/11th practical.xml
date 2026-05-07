@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML Study - Assignment 11 -->
+<!-- This file demonstrates XML structure and syntax -->
+
+<college>
+    <name>D.Y. Patil College of Engineering &amp; Technology</name>
+    <location>Kasaba Bawada, Kolhapur - 416006</location>
+    <university>Shivaji University</university>
+
+    <departments>
+        <department id="CSE">
+            <name>Computer Science &amp; Engineering</name>
+            <hod>Dr. Example Professor</hod>
+            <students>
+                <student rollNo="101">
+                    <name>Atharv Kathe</name>
+                    <year>Second Year</year>
+                    <semester>III</semester>
+                    <email>atharvkate06@gmail.com</email>
+                    <subjects>
+                        <subject code="WT">Web Technology</subject>
+                        <subject code="DS">Data Structures</subject>
+                        <subject code="OS">Operating Systems</subject>
+                    </subjects>
+                </student>
+                <student rollNo="102">
+                    <name>John Doe</name>
+                    <year>Second Year</year>
+                    <semester>III</semester>
+                    <email>johndoe@example.com</email>
+                    <subjects>
+                        <subject code="WT">Web Technology</subject>
+                        <subject code="DBMS">Database Management</subject>
+                        <subject code="CN">Computer Networks</subject>
+                    </subjects>
+                </student>
+            </students>
+        </department>
+
+        <department id="IT">
+            <name>Information Technology</name>
+            <hod>Prof. Jane Smith</hod>
+            <students>
+                <student rollNo="201">
+                    <name>Alice Brown</name>
+                    <year>Third Year</year>
+                    <semester>V</semester>
+                    <email>alice@example.com</email>
+                    <subjects>
+                        <subject code="SE">Software Engineering</subject>
+                        <subject code="AI">Artificial Intelligence</subject>
+                    </subjects>
+                </student>
+            </students>
+        </department>
+    </departments>
+
+    <courses>
+        <course code="WT" credits="4">
+            <title>Web Technology</title>
+            <description>Study of HTML, CSS, JavaScript, XML, and XSLT</description>
+        </course>
+        <course code="DS" credits="4">
+            <title>Data Structures</title>
+            <description>Arrays, Linked Lists, Trees, Graphs, Sorting</description>
+        </course>
+    </courses>
+</college>
