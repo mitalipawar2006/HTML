@@ -1,105 +1,125 @@
 # 🚀 WEB TECHNOLOGY PRACTICALS
 
-🎓 D.Y. Patil College of Engineering & Technology  
+<div align="center">
+
+## 🎓 D.Y. Patil College of Engineering & Technology
+### Department of Computer Science Engineering
 📍 Kasaba Bawada, Kolhapur
 
-┌──────────────────────────────────────────────┐
-│  Department of Computer Science Engineering │
-│  Semester IV Web Technology Practicals      │
-│  Academic Year: 2025-26                     │
-└──────────────────────────────────────────────┘
-
+### 🌐 Web Technology Practicals Portfolio
 HTML5 • CSS3 • XML • XSLT
+
+<img src="https://img.shields.io/badge/HTML5-Orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-Blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/XML-Red?style=for-the-badge&logo=xml">
+<img src="https://img.shields.io/badge/XSLT-Purple?style=for-the-badge">
+
+</div>
 
 ---
 
 # 👩‍💻 STUDENT INFORMATION
 
-- 👤 Name: Mitali Pawar
-- 🆔 Roll No: 29
-- 🏫 Branch: CSE(A)
-
----
-
-# 🌐 PROJECT OVERVIEW
-
-This repository contains all Web Technology practical assignments created using HTML, CSS, XML, and XSLT.
-
-The project includes:
-- Basic HTML programs
-- Lists and tables
-- Forms and resumes
-- Image handling
-- Iframes and links
-- XML and XSLT programs
-- Student Result Dashboard
-- XML Application Transformation using XSLT
-
----
-
-# 📂 PRACTICAL ASSIGNMENTS
-
-## 🎨 HTML BASICS
-
-| 📝 Practical | 📌 Description |
+| 📌 Details | 📄 Information |
 |---|---|
-| 1 | HTML Text Formatting Tags |
-| 2 | Basic Web Page Design |
-| 3 | Ordered, Unordered & Nested Lists |
-| 4 | HTML Image Tags |
-| 5 | Iframe Demonstration |
-| 6 | Image & Text Links |
-| 7 | Time Table Design |
+| 👤 Name | Mitali Pawar |
+| 🆔 Roll No | 29 |
+| 🏫 Branch | CSE(A) |
+| 📚 Course | Web Technology |
+| 🎯 Semester | IV |
 
 ---
 
-## 📋 FORMS & UI DESIGN
+# 🌟 PROJECT OVERVIEW
 
-| 📝 Practical | 📌 Description |
-|---|---|
-| 8 | Employee Registration Form |
-| 9 | Resume Webpage |
-
----
-
-## 🔄 XML & XSLT
-
-| 📝 Practical | 📌 Description |
-|---|---|
-| 10 | XML Basics |
-| 11 | XML with XSL Styling |
-| 12 | Student Result Dashboard |
-| 13 | XML Application using XSLT & Conditional Statements |
-
----
-
-# ✨ FEATURES
-
-✅ Responsive Design  
-✅ Modern UI  
-✅ Beginner Friendly  
-✅ HTML5 Semantic Tags  
-✅ XML + XSLT Integration  
-✅ Interactive Forms  
-✅ Styled Resume Website  
-✅ Dashboard Layouts  
-✅ Conditional Statements in XSLT  
-
----
-
-# 🛠 TECHNOLOGIES USED
+This repository contains all Web Technology practical assignments created using:
 
 - 🌐 HTML5
 - 🎨 CSS3
 - 📄 XML
 - 🔄 XSLT
 
+The project demonstrates:
+- Responsive Web Design
+- HTML Elements & Forms
+- XML Data Representation
+- XSLT Transformations
+- Modern UI Design
+- Interactive Webpages
+
+---
+
+# 📂 PRACTICAL ASSIGNMENTS
+
+## 🎨 HTML PRACTICALS
+
+| 📝 Practical No | 📌 Description |
+|---|---|
+| 1️⃣ | HTML Text Formatting Tags |
+| 2️⃣ | Basic Web Page Design |
+| 3️⃣ | Lists & Nested Lists |
+| 4️⃣ | HTML Image Tags |
+| 5️⃣ | Iframe Demonstration |
+| 6️⃣ | Image & Text Links |
+| 7️⃣ | Time Table Design |
+
+---
+
+## 📋 FORM & DESIGN PRACTICALS
+
+| 📝 Practical No | 📌 Description |
+|---|---|
+| 8️⃣ | Employee Registration Form |
+| 9️⃣ | Resume Website |
+
+---
+
+## 🔄 XML & XSLT PRACTICALS
+
+| 📝 Practical No | 📌 Description |
+|---|---|
+| 🔟 | XML Basics |
+| 1️⃣1️⃣ | XML with XSL Styling |
+| 1️⃣2️⃣ | Student Result Dashboard |
+| 1️⃣3️⃣ | XML Application using XSLT & Conditional Statements |
+
+---
+
+# ✨ FEATURES
+
+✅ Responsive Webpages  
+✅ Modern UI Design  
+✅ Interactive Forms  
+✅ XML + XSLT Integration  
+✅ Resume Website  
+✅ Student Dashboard  
+✅ Clean Folder Structure  
+✅ Beginner Friendly Projects  
+
+---
+
+# 🛠 TECHNOLOGIES USED
+
+<div align="center">
+
+| Technology | Purpose |
+|---|---|
+| 🌐 HTML5 | Structure of webpages |
+| 🎨 CSS3 | Styling and layouts |
+| 📄 XML | Data representation |
+| 🔄 XSLT | XML transformation |
+
+</div>
+
 ---
 
 # 📁 PROJECT STRUCTURE
 
 ```bash
-📦 Web-Technology-Practicals
+📦 HTML
+ ┣ 📂 11th practical
+ ┣ 📂 12th practical
+ ┣ 📂 13th practical
  ┣ 📄 2ndpractical.html
  ┣ 📄 3rd practical.html
  ┣ 📄 4th practical.html
@@ -109,34 +129,26 @@ The project includes:
  ┣ 📄 8th practical.html
  ┣ 📄 9th practical.html
  ┣ 📄 10thpractical resume.html
- ┣ 📂 11th practical
- ┃ ┗ 📄 11th practical.xml
- ┣ 📂 12th practical
- ┃ ┣ 📄 index.xml
- ┃ ┗ 📄 style.xsl
- ┣ 📂 13th practical
- ┃ ┣ 📄 application.xml
- ┃ ┣ 📄 application.xsl
- ┃ ┗ 📄 application_output.html
- ┗ 📄 index.html
+ ┣ 📄 index.html
+ ┗ 📄 README.md
 ```
 
 ---
 
 # 🚀 HOW TO RUN
 
-## Step 1
-Download or clone this repository.
+## 📥 Step 1
+Clone this repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/your-username/HTML.git
 ```
 
-## Step 2
-Open the project folder.
+## 📂 Step 2
+Open the project folder
 
-## Step 3
-Run any `.html` file in your browser.
+## 🌐 Step 3
+Run any `.html` file in browser
 
 Example:
 
@@ -165,22 +177,31 @@ Open index.html
 # 💡 LEARNING OUTCOMES
 
 📌 Understanding HTML structure  
-📌 Working with forms and tables  
-📌 Styling webpages using CSS  
-📌 Creating responsive designs  
-📌 Learning XML and XSLT transformation  
-📌 Building simple frontend projects  
-📌 Applying conditional statements in XSLT  
+📌 Creating responsive webpages  
+📌 Designing forms and tables  
+📌 XML data handling  
+📌 XSLT transformations  
+📌 Frontend development basics  
 
 ---
 
 # 🌟 AUTHOR
+
+<div align="center">
 
 ## 👩‍💻 Mitali Ravindra Pawar
 
 Computer Science Engineering Student  
 D.Y. Patil College of Engineering & Technology
 
+</div>
+
 ---
 
+<div align="center">
+
 # 🚀 HAPPY CODING 🚀
+
+⭐ Star this repository if you like it!
+
+</div>
