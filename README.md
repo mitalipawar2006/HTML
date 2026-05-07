@@ -24,7 +24,9 @@
 
 ---
 
-# 🌐 LIVE WEB TECHNOLOGY PORTFOLIO
+# 🌐 VIEW ALL ASSIGNMENTS ONLINE
+
+### 🚀 LIVE WEB TECHNOLOGY PORTFOLIO
 
 ```diff
 + 🚀 Check out all my assignments live!
@@ -34,7 +36,7 @@
 
 <a href="https://mitalipawar2006.github.io/HTML/">
 
-<img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-FF4B6E?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_VISIT_WEB_TECHNOLOGY_PORTFOLIO-FF4B6E?style=for-the-badge">
 
 </a>
 
@@ -177,7 +179,7 @@ The project demonstrates:
 
 # 🚀 LIVE WEBSITE
 
-## 🌐 Open Portfolio
+## 🌐 Open Web Technology Portfolio
 
 🔗 https://mitalipawar2006.github.io/HTML/
 
