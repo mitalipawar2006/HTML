@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Product data for Virtual Specs Try-On.
+    This file stores the information about the glasses frames displayed in the Showcase section.
+-->
+<products>
+    <!-- Product 1: Midnight Classic - Premium matte black frames -->
+    <product>
+        <id>1</id>
+        <name>Midnight Classic</name>
+        <price>₹3,499</price>
+        <image>https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=500</image>
+        <description>Premium matte black frames for a bold look. Perfect for professional and casual wear.</description>
+        <faceShape>Square, Rectangular</faceShape>
+    </product>
+
+    <!-- Product 2: Tortoise Shell Luxe - Elegant pattern with golden accents -->
+    <product>
+        <id>2</id>
+        <name>Tortoise Shell Luxe</name>
+        <price>₹4,199</price>
+        <image>https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&q=80&w=500</image>
+        <description>Elegant tortoiseshell pattern with golden accents. A timeless choice for any style.</description>
+        <faceShape>Round, Oval</faceShape>
+    </product>
+
+    <!-- Product 3: Aviator Gold - Classic style with lightweight metal -->
+    <product>
+        <id>3</id>
+        <name>Aviator Gold</name>
+        <price>₹4,999</price>
+        <image>https://images.unsplash.com/photo-1577803645773-f76470557621?auto=format&fit=crop&q=80&w=500</image>
+        <description>Classic aviator style with lightweight gold-finish metal. An iconic choice for everyone.</description>
+        <faceShape>Oval, Heart</faceShape>
+    </product>
+
+    <!-- Product 4: Crystal Round - Transparent modern design -->
+    <product>
+        <id>4</id>
+        <name>Crystal Round</name>
+        <price>₹3,799</price>
+        <image>https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&q=80&w=500</image>
+        <description>Modern transparent round frames for a minimalist aesthetic. A contemporary choice.</description>
+        <faceShape>Round, Heart, Oval</faceShape>
+    </product>
+</products>
