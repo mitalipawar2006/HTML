@@ -24,9 +24,7 @@
 
 ---
 
-# 🌐 VIEW ALL ASSIGNMENTS ONLINE
-
-### 🚀 LIVE ASSIGNMENT PORTFOLIO
+# 🌐 LIVE WEB TECHNOLOGY PORTFOLIO
 
 ```diff
 + 🚀 Check out all my assignments live!
