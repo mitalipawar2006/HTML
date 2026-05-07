@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <h3>Name: Mitali Pawar</h3>
+    <h3>Roll No: 29</h3>
+    <h3>Branch: CSE(A)</h3>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment 5 - HTML Image Tags</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 850px;
+            margin: auto;
+            background-color: #f2f2f2;
+        }
+
+        section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        h2 {
+            color: #333;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1>HTML Image Tag Examples</h1>
+
+    <section>
+        <h2>1. Standard Image</h2>
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+             alt="Nature Image">
+    </section>
+
+    <section>
+        <h2>2. Image with Caption</h2>
+
+        <figure>
+            <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9"
+                 alt="Beautiful Landscape">
+
+            <figcaption>
+                This is an example of an image with caption.
+            </figcaption>
+        </figure>
+    </section>
+
+    <section>
+        <h2>3. Responsive Image</h2>
+
+        <img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e"
+             alt="Responsive Mountain Image"
+             class="responsive">
+    </section>
+
+    <section>
+        <h2>4. Image as a Link</h2>
+
+        <a href="https://www.google.com" target="_blank">
+            <img src="https://images.unsplash.com/photo-1522199755839-a2bacb67c546"
+                 alt="Laptop Image">
+        </a>
+    </section>
+
+    <section>
+        <h2>5. Animated Image (GIF)</h2>
+
+        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"
+             alt="Animated GIF"
+             width="250">
+    </section>
+
+    <section>
+        <h2>6. Image Map</h2>
+
+        <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+             alt="Image Map Example"
+             usemap="#imagemap">
+
+        <map name="imagemap">
+
+            <area shape="rect"
+                  coords="0,0,300,300"
+                  href="https://www.google.com"
+                  alt="Google Link">
+
+            <area shape="rect"
+                  coords="300,0,600,300"
+                  href="https://www.wikipedia.org"
+                  alt="Wikipedia Link">
+
+        </map>
+    </section>
+
+</body>
+</html>
